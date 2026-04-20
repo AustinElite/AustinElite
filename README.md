@@ -108,7 +108,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AustinElite&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AustinElite&theme=onedark" />
 </p>
 
 ---
