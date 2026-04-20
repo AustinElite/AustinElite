@@ -1,123 +1,140 @@
-<h1 align="center">Austin</h1>
-<h3 align="center">Java Backend Engineer | AI Agent Developer</h3>
+<h1 align="center">Hi 👋, I'm Austin</h1>
 
 <p align="center">
-  <a href="mailto:pulutrcj918157@163.com">📧 Email</a> •
-  <a href="https://github.com/AustinElite">🐙 GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Engineer;AI+Agent+Developer;Distributed+Systems+Learner&center=true&size=25">
+</p>
+
+<h3 align="center">🚀 Java Backend Engineer | 🤖 AI Agent Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AustinElite&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧭 Profile
+## ⚡ About Me
 
-Backend engineer focused on **high-performance distributed systems** and **AI-powered applications**.
-
-- Strong foundation in **Java ecosystem & backend architecture**
-- Building **AI Agent systems with LLM integration**
-- Experience with **microservices, messaging systems, and system design**
-- Focused on **scalability, reliability, and real-world problem solving**
+- 💻 Backend Engineer focused on **Java & Distributed Systems**
+- 🤖 Building **AI Agent systems with LLM integration**
+- ⚙️ Strong interest in **system design, scalability, and performance optimization**
+- 🎯 Goal: Build **production-level intelligent backend systems**
 
 ---
 
-## 💼 Core Competencies
-
-### Backend Engineering
-- Java / Spring Boot / Spring Cloud
-- RESTful API design & system modularization
-- MySQL (index optimization, transaction handling)
-- Redis (caching strategies, distributed locks)
-
-### Distributed Systems
-- Kafka / RabbitMQ (message-driven architecture)
-- Service decoupling & asynchronous processing
-- High availability & fault tolerance design
-
-### Infrastructure & DevOps
-- Docker / Docker Compose
-- Linux server environment
-- Monitoring: Prometheus + Grafana
-
-### AI Engineering
-- LLM application integration
-- AI Agent architecture design
-- Prompt Engineering & RAG pipelines
-
----
-
-## 🚀 Selected Projects
-
-### 🔹 AI Agent Backend System
-> AI-driven task execution system based on LLM
-
-- Designed agent workflow with task planning & execution loop
-- Integrated LLM APIs with backend services
-- Implemented memory & context management
-- Built modular backend for extensibility
-
-**Tech Stack:** Java, Spring Boot, Redis, LLM APIs
-
----
-
-### 🔹 Distributed Order System (Microservices)
-> Scalable backend system simulating real-world e-commerce
-
-- Microservice architecture with Spring Cloud
-- Asynchronous processing using Kafka
-- Distributed transaction handling
-- Cache optimization with Redis
-
-**Tech Stack:** Spring Cloud, Kafka, MySQL, Redis
-
----
-
-### 🔹 Monitoring & Observability Platform
-> System metrics tracking and visualization
-
-- Integrated Prometheus for metrics collection
-- Built dashboards with Grafana
-- Monitored system performance & bottlenecks
-
----
-
-## 📈 Engineering Focus
-
-- System Design (High Concurrency / Scalability)
-- AI + Backend Integration
-- Performance Optimization
-- Clean Architecture & Maintainability
-
----
-
-## 📊 GitHub Metrics
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AustinElite&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,linux,git" />
 </p>
 
 ---
 
-## 🎯 Career Direction
+## 🔥 Tech Highlights
 
-- Backend Engineer (Java / Distributed Systems)
-- AI Application Engineer (LLM / Agent Systems)
-- Focus on building **intelligent, scalable backend systems**
-
----
-
-## 🧠 Thinking Style
-
-- Problem-first, not tech-first
-- Prefer measurable improvements (performance, latency, cost)
-- Design systems with long-term scalability in mind
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Spring-Boot-success?style=for-the-badge&logo=spring" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Agent-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Integration-red?style=for-the-badge" />
+</p>
 
 ---
 
-## 📌 Current Focus
+## 🧩 Detailed Skills
 
-- Deepening **AI Agent architecture**
-- Building **production-level AI + backend projects**
-- Improving **system design & engineering depth**
+- **Backend:** Java, Spring Boot, Spring Cloud  
+- **Database:** MySQL, Redis  
+- **Messaging:** Kafka, RabbitMQ  
+- **DevOps:** Docker, Linux  
+- **AI:** LLM, RAG, AI Agents  
 
 ---
 
-⭐️ If you're interested in collaboration or opportunities, feel free to reach out.
+## 🚀 Featured Projects
+
+### 🤖 AI Agent System
+- LLM-based task planning & execution  
+- Context memory & workflow orchestration  
+- Modular backend architecture  
+
+👉 Project Link: *暂定*
+
+---
+
+### 🛒 Distributed Order System
+- Microservices with Spring Cloud  
+- Kafka async processing  
+- Redis caching & optimization  
+
+👉 Project Link: *暂定*
+
+---
+
+### 📊 Monitoring Platform
+- Prometheus metrics collection  
+- Grafana dashboards  
+- System observability  
+
+👉 Project Link: *暂定*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AustinElite&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinElite&theme=radical" />
+</p>
+
+---
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinElite&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AustinElite/AustinElite/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AustinElite&theme=darkhub" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:pulutrcj918157@163.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/AustinElite">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build production-level AI systems  
+- 📚 Deep dive into LLM & Agent frameworks  
+- ⚡ Improve system design for high concurrency  
+- 🌍 Contribute to open source  
+
+---
+
+## 🧠 Motto
+
+> Build systems that scale. Build intelligence that matters.
