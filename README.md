@@ -111,21 +111,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinElite&theme=react-dark" />
 </p>
 
-## 🔥 GitHub Contributions
+## 🏆 GitHub 3D Contributions
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>Snake Animation</b><br/>
-        <img src="https://raw.githubusercontent.com/AustinElite/AustinElite/refs/heads/output/github-contribution-grid-snake-dark.svg" width="400"/>
-      </td>
-      <td align="center">
-        <b>🔥 Fire Rings</b><br/>
-        <img src="https://activity-graph.herokuapp.com/graph?username=AustinElite&theme=react-dark&area=true&hide_border=true&custom_title=Contributions+Fire" width="400"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AustinElite&theme=react-dark&area=true&hide_border=true" width="600" style="transform: rotateX(20deg) rotateY(20deg); filter: drop-shadow(2px 4px 6px #00000070);" />
 </p>
 
 ---
