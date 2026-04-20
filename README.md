@@ -105,22 +105,6 @@
 
 ---
 
-<--
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinElite&theme=react-dark" />
-</p>
--->
-
-## 🏆 GitHub 3D Contributions
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AustinElite&theme=react-dark&area=true&hide_border=true" width="600" style="transform: rotateX(20deg) rotateY(20deg); filter: drop-shadow(2px 4px 6px #00000070);" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
