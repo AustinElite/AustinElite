@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/192777696?v=4" width="120" height="120" style="border-radius:50%; border:3px solid #0e75b6;" />
+</p>
 <h1 align="center">Hi 👋, I'm Austin</h1>
 
 <p align="center">
