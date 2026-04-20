@@ -111,24 +111,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinElite&theme=react-dark" />
 </p>
 
-## 📊 GitHub Activity
+## 🔥 GitHub Contributions
 
 <p align="center">
   <table>
     <tr>
-      <!-- Contribution Snake -->
       <td align="center">
-        <b>Contribution Snake</b><br/>
+        <b>Snake Animation</b><br/>
         <img src="https://raw.githubusercontent.com/AustinElite/AustinElite/refs/heads/output/github-contribution-grid-snake-dark.svg" width="400"/>
       </td>
-      <!-- Contribution Graph -->
       <td align="center">
-        <b>Activity Graph</b><br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinElite&theme=react-dark" width="400"/>
+        <b>🔥 Fire Rings</b><br/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=AustinElite&theme=react-dark&area=true&hide_border=true&custom_title=Contributions+Fire" width="400"/>
       </td>
     </tr>
   </table>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
