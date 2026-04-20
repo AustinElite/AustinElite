@@ -105,11 +105,13 @@
 
 ---
 
+<--
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinElite&theme=react-dark" />
 </p>
+-->
 
 ## 🏆 GitHub 3D Contributions
 
