@@ -52,40 +52,35 @@
 ---
 
 ## 🚀 Featured Projects
+### 🎵 Austin Music - AI-Powered Retro Terminal Style Music Player
+- Full-stack Next.js framework with a retro terminal-style interface
+- AI Agent for intelligent search and conversational song requests, supporting context memory and workflow orchestration
+- Integrates local music library + full-network retrieval + NetEase Cloud Music search
+- Bilibili audio download and playback, scrolling lyrics display, and bullet comment effects
+- Modular backend architecture with plugin-based extensibility
 
-### 🤖 AI Agent System
-- LLM-based task planning & execution  
-- Context memory & workflow orchestration  
-- Modular backend architecture  
-
-👉 Project Link: *暂定*
-
----
-
-### 🛒 Distributed Order System
-- Microservices with Spring Cloud  
-- Kafka async processing  
-- Redis caching & optimization  
-
-👉 Project Link: *暂定*
+👉 Project Link: *https://github.com/AustinElite/AustinMusic*
 
 ---
 
-### 📊 Monitoring Platform
-- Prometheus metrics collection  
-- Grafana dashboards  
-- System observability  
+### 📡 Hotspot Intelligence Gathering Skill (for Codex)
+- An intelligence radar covering technology, stocks, AI, chips, software, internet platforms, macro policies, and more
+- Automatically collects, verifies, deduplicates, ranks, and intelligently summarizes information; each important item includes source link, publication time, credibility assessment, impact judgment, and uncertainty explanation
+- LLM-based task planning and execution, suitable for daily industry reports, tech news briefings, investment observations, WeChat official account选题, and market monitoring
+- A Skill built specifically for Codex, supporting a hybrid rule-based and model-driven intelligence processing pipeline
 
-👉 Project Link: *暂定*
+👉 Project Link: *https://github.com/AustinElite/ai-market-radar*
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center"> 
+<!-- <p align="center"> 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AustinElite&show_icons=true&theme=radical" />  -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinElite&theme=radical" /> 
-</p>
+</p> -->
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=AustinElite&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
