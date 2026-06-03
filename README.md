@@ -66,7 +66,7 @@
 ### 📡 Hotspot Intelligence Gathering Skill (for Codex)
 - An intelligence radar covering technology, stocks, AI, chips, software, internet platforms, macro policies, and more
 - Automatically collects, verifies, deduplicates, ranks, and intelligently summarizes information; each important item includes source link, publication time, credibility assessment, impact judgment, and uncertainty explanation
-- LLM-based task planning and execution, suitable for daily industry reports, tech news briefings, investment observations, WeChat official account选题, and market monitoring
+- LLM-based task planning and execution, suitable for daily industry reports, tech news briefings, investment observations, WeChat official account topic selection, and market monitoring
 - A Skill built specifically for Codex, supporting a hybrid rule-based and model-driven intelligence processing pipeline
 
 👉 Project Link: *https://github.com/AustinElite/ai-market-radar*
@@ -75,11 +75,11 @@
 
 ## 📈 GitHub Stats
 
-<!-- <p align="center"> 
+<p align="center"> 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AustinElite&show_icons=true&theme=radical" />  -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinElite&theme=radical" /> 
-</p> -->
-[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=AustinElite&theme=radical)](https://git.io/streak-stats)
+</p>
+<!-- [![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=AustinElite&theme=radical)](https://git.io/streak-stats) -->
 
 
 ---
